@@ -1,0 +1,14 @@
+---
+title: Top Tens App
+subtitle: A mobile first web application
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: roundicons.png
+thumbnail: Top-tens-screenshot.png
+alt: image-alt
+project-date: November 2015
+category: Web Development
+description: A ruby on rails application made in a week long individual project. This project uses several gems including an 'acts as list' gem.
+
+---
